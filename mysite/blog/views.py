@@ -5,3 +5,6 @@ class IndexView(TemplateView):
 
 def method_a():
     pass
+
+def method_aa():
+    pass
