@@ -5,4 +5,5 @@ class IndexView(TemplateView):
 
 def method_a():
     print('method_a')
+    print('r1')
     return 'done'
