@@ -4,4 +4,5 @@ class IndexView(TemplateView):
     template_name = 'blog/index.html'
 
 def method_a():
-    pass
+    print('method_a')
+    return 'done'
