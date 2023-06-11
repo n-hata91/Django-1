@@ -8,3 +8,6 @@ def method_a():
 
 def method_aa():
     pass
+
+def method_aaa():
+    pass
