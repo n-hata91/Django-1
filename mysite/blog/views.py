@@ -6,6 +6,9 @@ class IndexView(TemplateView):
 def method_a():
     print('method_a')
     print('r4')
+    print('A_2nd')
+    print('A_2nd')
+    print('A_2nd')
     return 'done'
 
 def method_aa():
@@ -15,10 +18,4 @@ def method_aaa():
     pass
 
 def method_aaaa():
-    pass
-
-def method_aa():
-    pass
-
-def method_aaa():
     pass
