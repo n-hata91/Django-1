@@ -9,7 +9,7 @@ def method_a():
     return 'done'
 
 def method_aa():
-    pass
+    print('pick me')
 
 def method_aaa():
     pass
